@@ -6,6 +6,7 @@
 # CYBERDUELS WUXING:: PvP Blockchain game
 
 ### PARTICIPATING IN HACKATHON WWW.COLOSSEUM.ORG/RENAISSANCE
+### REPOSITORY WILL BE UPDATED
 
 ### [JOIN DISCORD SERVER FOR UPDATES](https://discord.com/invite/w3RkAPGdK3)
 
@@ -24,9 +25,9 @@ Please watch the demo-videos below.
 
 ## Watch the demo
 
-### Demo CyberDuels
+### Demo CyberDuels GAMEPLAY
 [![Demo CyberDuels](https://neonblock.one/cyberduels.png)](https://neonblock.one/cyberduels.mp4)
-### Demo SCOUT NFT RAKE (1/3 util)
+### Demo SCOUT NFT RAKE OFF
 [![Demo SCOUT NFT RAKE](https://neonblock.one/demoRakeOff.png)](https://neonblock.one/demoRakeOff.mp4)
 
 ## Written with Vite+Vue everything below is usefull 
