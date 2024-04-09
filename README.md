@@ -3,11 +3,11 @@
 [![Alt text](https://neonblock.one/neonblock-link.png)](https://neonblock.one)
 <!-- [![Alt text](https://neonblock.one)](https://neonblock.one/neonblock-link.png) -->
 
-# CYBERDUELS WUXING:: PvP Blockchain betting game
+# CYBERDUELS WUXING:: PvP Blockchain game
 
 
 ### PARTICIPATING IN HACKATHON WWW.COLOSSEUM.ORG/RENAISSANCE
-### THIS VERSION IS YET VERY RAW.
+### THE GAME IS UNDER TESTING
 ### [JOIN DISCORD SERVER FOR UPDATES](https://discord.com/invite/w3RkAPGdK3)
 
 
@@ -17,7 +17,9 @@ Players commit a hash for the selected element. Then reveal it to take the win.
 
 The game has featured SCOUT NFT as a rake-off membership (up to 75% rake-off forever with the right chip).
 SCOUT NFT is a compressed NFT collection. Compressed NFTs are perfect for in-game processes based on the efficiency of merkle-tree verifications.
-This topics will be described more elabarate of the official website of the creators: neonblock.one
+This topic will be described more elabarate of the official website of the creators: neonblock.one
+### This is very special NFT that we just opened for mint
+### [Read more & Mint is here](https://scout.neonblock.one/)
 
 Please watch the demo-videos below.
 
