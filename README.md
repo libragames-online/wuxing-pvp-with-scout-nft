@@ -1,8 +1,7 @@
 
 ## CREATED BY
-[![Alt text](https://neonblock.one)](https://neonblock.one/neonblock-link.png)
+[![Alt text](https://neonblock.one/neonblock-link.png)](https://neonblock.one)
 <!-- [![Alt text](https://neonblock.one)](https://neonblock.one/neonblock-link.png) -->
-## WE GOING TO MAKE THE BEST GAMES ON-CHAINS 
 
 # CYBERDUELS WUXING:: PvP Blockchain betting game
 
