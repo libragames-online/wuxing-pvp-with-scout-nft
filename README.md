@@ -6,7 +6,10 @@
 # CYBERDUELS WUXING:: PvP Blockchain game
 
 ### PARTICIPATING IN HACKATHON WWW.COLOSSEUM.ORG/RENAISSANCE
+### [VISIT GAME](https://cyberduels.neonblock.one/)
+### [VISIT NFT PROJECT](https://scout.neonblock.one/)
 ### REPOSITORY WILL BE UPDATED
+### SOURCE WILL BE ADDED
 
 ### [JOIN DISCORD SERVER FOR UPDATES](https://discord.com/invite/w3RkAPGdK3)
 
